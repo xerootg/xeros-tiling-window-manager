@@ -1,0 +1,19 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Name": "Top Half or Maximize",
+    "Description": "Toggle the active window between the top half of the screen and maximized using Meta+Up.",
+    "Icon": "view-fullscreen",
+    "Authors": [
+      {
+        "Name": "xerootg",
+        "Email": ""
+      }
+    ],
+    "Id": "top-half-or-maximize",
+    "Version": "1.0",
+    "License": "GPLv3"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}
