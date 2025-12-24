@@ -4,8 +4,17 @@ KWin script for vertical window tiling with Meta+Up/Down.
 
 ## Shortcuts
 
-- **Meta+Up**: Tile window to top half → press again to maximize
-- **Meta+Down**: Tile window to bottom half → press again to minimize
+### Meta+Up
+- Any window → top half
+- Left/right half → top-left/top-right corner
+- Top corner → top half (full width)
+- Top half → maximize
+
+### Meta+Down
+- Any window → bottom half
+- Left/right half → bottom-left/bottom-right corner
+- Bottom corner → bottom half (full width)
+- Bottom half → minimize
 
 ## Installation
 
