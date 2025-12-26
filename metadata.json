@@ -1,8 +1,8 @@
 {
   "KPackageStructure": "KWin/Script",
   "KPlugin": {
-    "Name": "Top Half or Maximize",
-    "Description": "Toggle the active window between the top half of the screen and maximized using Meta+Up.",
+    "Name": "Xero's Tiling Window Manager",
+    "Description": "Use meta+direction keys to manage window tiling and maximizing.",
     "Icon": "view-fullscreen",
     "Authors": [
       {
@@ -10,7 +10,7 @@
         "Email": ""
       }
     ],
-    "Id": "top-half-or-maximize",
+    "Id": "xeros-tiling-window-manager",
     "Version": "1.1",
     "License": "GPLv3"
   },
