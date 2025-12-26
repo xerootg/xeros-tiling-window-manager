@@ -11,9 +11,10 @@
       }
     ],
     "Id": "top-half-or-maximize",
-    "Version": "1.0",
+    "Version": "1.1",
     "License": "GPLv3"
   },
   "X-Plasma-API": "javascript",
-  "X-Plasma-MainScript": "code/main.js"
+  "X-Plasma-MainScript": "code/main.js",
+  "X-KDE-ConfigModule": "kwin/effects/configs/kcm_kwin4_genericscripted"
 }
